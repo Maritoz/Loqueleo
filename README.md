@@ -9,4 +9,4 @@
 En este apartado pretendo escribir pequeños resúmenes o reflexiones sobre autores/libros que he leído o voy leyendo.
 
 ### 💡 ¿Por qué?
-Creo que escribir fuerza a una persona a comprender de mejor manera lo que se ha leído... *(En realidad solo estoy aburrido).*
+Creo que escribir ayuda a una persona a comprender de mejor manera lo que se ha leído... *(En realidad solo estoy aburrido).*
