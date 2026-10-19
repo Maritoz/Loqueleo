@@ -7,7 +7,7 @@
 
 ## 📖 Introducción
 
-Orwell, más que nadie, sabía bien lo que era la libertad. Como autor y periodista de profesión, y tras luchar en la guerra civil española (*Homenaje a Cataluña*), vio de cerca lo que eran los regímenes totalitarios. Fue una experiencia que lo marcó tanto que, en sus propias palabras:
+Orwell, más que nadie, sabía bien lo que era la libertad. Como autor y periodista de profesión, y tras luchar en la guerra civil española ([*Homenaje a Cataluña*](https://es.wikipedia.org/wiki/Homenaje_a_Catalu%C3%B1a)) vio de cerca lo que eran los regímenes totalitarios. Fue una experiencia que lo marcó tanto que, en sus propias palabras:
 
 > *«La guerra de España y otros acontecimientos ocurridos en 1936-1937 cambiaron las cosas, y desde entonces supe dónde me encontraba. Cada línea en serio que he escrito desde 1936 ha sido escrita, directa o indirectamente, contra el totalitarismo y a favor del socialismo democrático, como yo lo entiendo».*
 
